@@ -65,7 +65,7 @@ We initialize two variables, timeoutCount and intervalCount, to keep track of th
 ```javascript
 let timeoutCount = 0; // Used to record the number of times setTimeout is called
 let intervalCount = 0; // Used to record the number of times setInterval is called
-
+```
 
 1.2: Create Canvas
 In the setup() function, we create a 400x400 canvas and set the background color to grayscale (220).
