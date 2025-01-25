@@ -39,7 +39,7 @@ npm install p5
 Create a new folder for your project.
 Inside that folder, create a file named sketch.js and paste the JavaScript code from the project.
 To run the project, you'll need a basic HTML file to load the p5.js library and your script. Here is an example of the HTML file (index.html):
-‘’’html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +53,7 @@ To run the project, you'll need a basic HTML file to load the p5.js library and 
 </body>
 </html>
 
-‘’’
+```
 Open the index.html file in a browser, and you should see the triangles drawn on the canvas.
 
 
